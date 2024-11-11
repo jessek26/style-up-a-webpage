@@ -1,0 +1,56 @@
+.body-class{
+    background-color: rgb(20, 20, 20);
+}
+
+.header-class{
+    color: rgb(201, 255, 255);
+}
+
+.nav-class{
+    background-color: rgb(29, 29, 29);
+}
+
+.nav-link-class{
+    color: rgba(233, 233, 233, 0.767);
+    font-weight: bold;
+}
+
+.nav-link-class{
+    font-weight: bold;
+    color: #b3b3b3;
+}
+
+.section-title-class{
+    color: rgb(255, 180, 214);
+}
+
+.text-class{
+    color: rgb(246, 246, 246);
+}
+.image-class{
+    border: 10px solid rgb(33, 33 ,33);
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
+.form-class{
+    background-color: rgb(238, 238, 238)
+}
+
+.button-class{
+    color: rgb(0, 0, 0) ;
+}
+
+.footer-class{
+    background-color: rgb(255, 244, 122);
+    color:rgb(0, 0, 0);
+}
+
+.faq-question-class{
+    color: rgb(255, 159, 85);
+}
+
+.cite-class{
+    color: grey;
+}
